@@ -1,0 +1,20 @@
+Date: 11/12/2023
+Time: 2:18
+Phone Number: +54 9 0000000
+Message: hola
+--------------------
+Date: 11/12/2023
+Time: 2:19
+Phone Number: +54 9 0000000
+Message: hola
+--------------------
+Date: 11/12/2023
+Time: 2:21
+Phone Number: +54 9 0000000
+Message: hola soy un bot
+--------------------
+Date: 11/12/2023
+Time: 2:22
+Phone Number: +54 9 0000000
+Message: hola soy un bot
+--------------------
